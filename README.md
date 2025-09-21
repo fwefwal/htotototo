@@ -6,6 +6,7 @@
 ![](https://github.com/fwefwal/htotototo/blob/main/kartinka2.jpg)
 
 3 - Зайти на ваш профиль и нажать (+) в правом верхнем углу и выбрать New repository 
+
 ![](https://github.com/fwefwal/htotototo/blob/main/kartinka3.jpg)
 
 и создать новый репозиторий введя все данные, которые вам необходимы
