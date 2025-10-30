@@ -29,7 +29,7 @@
 Пример:
 
 ```git clone
-[](https://github.com/username/project.git)```
+[](https://github.com/username/project.git)
 
 
 ![](https://github.com/fwefwal/htotototo/blob/main/kartinka4.jpg)
