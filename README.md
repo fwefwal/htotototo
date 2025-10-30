@@ -33,14 +33,14 @@
 ![](https://github.com/fwefwal/htotototo/blob/main/kartinka4.jpg)
 
 ## Работа с commit
-Через терминал:
+-Через терминал:
 1.  Добавьте изменённые файлы:
 ```git add```
 
 2.  Сохраните изменения:
 ```git commit -m "Описание изменений"```
 
-Через интерфейс Visual Studio Code:
+-Через интерфейс Visual Studio Code:
 
 >Вместо команд можно воспользоваться встроенным GUI
 
