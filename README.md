@@ -2,7 +2,7 @@
 
 1. Создание или вход в аккаунт
 
-Для начала необходимо открыть браузер и перейти по ссылке: https://github.com/signup (для создания аккаунта) https://github.com/login (для регистрации в уже имеющийся аккаунт).
+Для начала необходимо открыть браузер и перейти по ссылке: [](https://github.com/signup) (для создания аккаунта) [](https://github.com/login) (для регистрации в уже имеющийся аккаунт).
 
 После этого зарегистрируйтесь или войдите в свой профиль.
 
@@ -26,7 +26,7 @@ git clone <ссылка на репозиторий>
 
 Пример:
 
-git clone https://github.com/username/project.git
+git clone [](https://github.com/username/project.git)
 
 
 ![](https://github.com/fwefwal/htotototo/blob/main/kartinka4.jpg)
@@ -37,11 +37,10 @@ git clone https://github.com/username/project.git
 git add .
 
 2. Сохраните изменения:
-git commit -m "Описание изменений"
+'''git commit -m "Описание изменений"
 
-Через интерфейс Visual Studio Code:
-
-Вместо команд можно воспользоваться встроенным GUI:
+Через интерфейс Visual Studio Code
+Вместо команд можно воспользоваться встроенным GUI
 
 1. Нажмите на значок ⋮ в верхней части панели управления.
 2. Выберите Commit → Commit staged.
