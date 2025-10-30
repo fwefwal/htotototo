@@ -49,6 +49,7 @@
 2.  Выберите Commit → Commit staged
 
 ![](https://github.com/fwefwal/htotototo/blob/main/firstcom.jpg)
+
 ![](https://github.com/fwefwal/htotototo/blob/main/savecom.jpg)
 
 > Основные команды Git
