@@ -8,6 +8,7 @@
 После этого зарегистрируйтесь или войдите в свой профиль.
 
 ![](https://github.com/fwefwal/htotototo/blob/main/kartinka1.jpg)
+
 ![](https://github.com/fwefwal/htotototo/blob/main/kartinka2.jpg)
 
 ## Создание нового репозитория
@@ -24,12 +25,6 @@
 Для клонирования репозитория:
 
 ```git clone <ссылка на репозиторий>```
-
-
-Пример:
-
-```git clone
-[](https://github.com/username/project.git)
 
 
 ![](https://github.com/fwefwal/htotototo/blob/main/kartinka4.jpg)
