@@ -37,7 +37,7 @@ git clone [](https://github.com/username/project.git)
 git add .
 
 2. Сохраните изменения:
-'''git commit -m "Описание изменений"
+'''git commit -m "Описание изменений"'''
 
 Через интерфейс Visual Studio Code
 Вместо команд можно воспользоваться встроенным GUI
