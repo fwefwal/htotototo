@@ -1,6 +1,6 @@
 # Инструкция по созданию репозитория на GitHub
 
-1. Создание или вход в аккаунт
+## Создание или вход в аккаунт
 
 Для начала необходимо открыть браузер и перейти по ссылке: [](https://github.com/signup) (для создания аккаунта) [](https://github.com/login) (для регистрации в уже имеющийся аккаунт).
 
@@ -9,7 +9,7 @@
 ![](https://github.com/fwefwal/htotototo/blob/main/kartinka1.jpg)
 ![](https://github.com/fwefwal/htotototo/blob/main/kartinka2.jpg)
 
-2. Создание нового репозитория
+## Создание нового репозитория
 
 В правом верхнем углу профиля нажмите на значок (+) и выберите пункт New repository.
 
@@ -18,11 +18,11 @@
 В открывшейся форме укажите необходимые параметры нового репозитория (название, описание, настройки доступа).
  
 
-# Клонирование репозитория
+## Клонирование репозитория
 
 Для клонирования репозитория используйте команду:
 
-git clone <ссылка на репозиторий>
+```git clone <ссылка на репозиторий>
 
 Пример:
 
@@ -31,7 +31,7 @@ git clone [](https://github.com/username/project.git)
 
 ![](https://github.com/fwefwal/htotototo/blob/main/kartinka4.jpg)
 
-# Работа с commit
+## Работа с commit
 Через терминал:
 1. Добавьте изменённые файлы:
 git add .
@@ -48,7 +48,7 @@ git commit -m "Описание изменений"
 ![](https://github.com/fwefwal/htotototo/blob/main/firstcom.jpg)
 ![](https://github.com/fwefwal/htotototo/blob/main/savecom.jpg)
 
-# Основные команды Git
+## Основные команды Git
 
 git init — инициализация нового репозитория.
 git clone — клонирование удалённого репозитория.
